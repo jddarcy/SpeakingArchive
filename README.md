@@ -13,6 +13,10 @@ Joe Darcy's Speaking Archive
 * _Forward to the Past: The Case for Uniformly Strict Floating Point Arithmetic on the JVM_ [(video)](https://www.youtube.com/watch?v=qTKeU_3rhk4&t=151s), 
 [(slides)](http://www.jddarcy.org/Conferences/JVMLS/JVMLS-2017-strict-floating-point.pdf), July 2017, Santa Clara, CA
 
+## Devoxx ##
+
+* _JDK 9 Language, Tooling, and Library Features_ [(video)](https://www.youtube.com/watch?v=KQiYlWFvc68&t=5s), March 2017, San Jose, CA
+
 ## OSCON ##
 
 * [_What every programmer should know about floating-point arithmetic_](https://conferences.oreilly.com/oscon/open-source-2015/public/schedule/detail/42013), July 2015, Portland OR
