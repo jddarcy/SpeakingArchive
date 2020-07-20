@@ -13,6 +13,13 @@ Joe Darcy's Speaking Archive
 * _Forward to the Past: The Case for Uniformly Strict Floating Point Arithmetic on the JVM_ [(video)](https://www.youtube.com/watch?v=qTKeU_3rhk4&t=151s), 
 [(slides)](http://www.jddarcy.org/Conferences/JVMLS/JVMLS-2017-strict-floating-point.pdf), July 2017, Santa Clara, CA
 
+## JavaOne / Oracle Code One ##
+
+* _Demo with Erik Duvelblad during technical keynote_, [(video)](https://youtu.be/nKJbDYRsO0s?t=1274), October 2018, San Francisco, CA
+* _JDK 9 Language, Tooling, and Library Features_, [(video)](https://www.youtube.com/watch?v=VrI6rJNO2x4&t=6s), October 2017, San Francisco, CA
+* _JDK 9 Language, Tooling, and Library Features_, [(video)](https://www.youtube.com/watch?v=vKYzmIi_1LM), September 2016, San Francisco, CA
+* _JDK 9 Language and Tooling Features_ (with Vicente Romero), [(video)](https://www.youtube.com/watch?v=J4JKByWQHAk), October 2015, San Francisco, CA
+
 ## Devoxx ##
 
 * _JDK 9 Language, Tooling, and Library Features_ [(video)](https://www.youtube.com/watch?v=KQiYlWFvc68&t=5s), March 2017, San Jose, CA
