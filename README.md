@@ -8,6 +8,11 @@ Joe Darcy's Speaking Archive
 * [_What is the CSR (Compatibility and Specification Review) Group?_](http://cr.openjdk.java.net/~darcy/Presentations/OCW/ocw-CSR-2019-02.pdf), February 2019, Brussels
 * [_Call for Discussion: Project Skara_](http://cr.openjdk.java.net/~darcy/Presentations/ocw-2018-08-01-skara.pdf), August 2018, Santa Clara, CA
 
+## JVMLS ##
+
+* _Forward to the Past: The Case for Uniformly Strict Floating Point Arithmetic on the JVM_ [(video)](https://www.youtube.com/watch?v=qTKeU_3rhk4&t=151s), 
+[(slides)](http://www.jddarcy.org/Conferences/JVMLS/JVMLS-2017-strict-floating-point.pdf), July 2017, Santa Clara, CA
+
 ## OSCON ##
 
 * [_What every programmer should know about floating-point arithmetic_](https://conferences.oreilly.com/oscon/open-source-2015/public/schedule/detail/42013), July 2015, Portland OR
