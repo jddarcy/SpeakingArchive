@@ -16,7 +16,7 @@ Joe Darcy's Speaking Archive
 ## JavaOne / Oracle Code One ##
 
 * _Demo with Erik Duvelblad during technical keynote_, [(video)](https://youtu.be/nKJbDYRsO0s?t=1274), October 2018, San Francisco, CA
-* _JDK 9 Language, Tooling, and Library Features_, [(video)](https://www.youtube.com/watch?v=VrI6rJNO2x4&t=6s), October 2017, San Francisco, CA
+* _JDK 9 Language, Tooling, and Library Features_, [(video)](https://www.youtube.com/watch?v=VrI6rJNO2x4), October 2017, San Francisco, CA
 * _JDK 9 Language, Tooling, and Library Features_, [(video)](https://www.youtube.com/watch?v=vKYzmIi_1LM), September 2016, San Francisco, CA
 * _JDK 9 Language and Tooling Features_ (with Vicente Romero), [(video)](https://www.youtube.com/watch?v=J4JKByWQHAk), October 2015, San Francisco, CA
 
