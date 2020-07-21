@@ -10,7 +10,7 @@ Joe Darcy's Speaking Archive
 
 ## JVMLS ##
 
-* _Forward to the Past: The Case for Uniformly Strict Floating Point Arithmetic on the JVM_ [(video)](https://www.youtube.com/watch?v=qTKeU_3rhk4&t=151s), 
+* _Forward to the Past: The Case for Uniformly Strict Floating Point Arithmetic on the JVM_ [(video)](https://www.youtube.com/watch?v=qTKeU_3rhk4), 
 [(slides)](http://www.jddarcy.org/Conferences/JVMLS/JVMLS-2017-strict-floating-point.pdf), July 2017, Santa Clara, CA
 
 ## JavaOne / Oracle Code One ##
