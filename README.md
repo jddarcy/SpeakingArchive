@@ -22,8 +22,8 @@ Joe Darcy's Speaking Archive
 
 ## Devoxx ##
 
-* _JDK 9 Language, Tooling, and Library Features_ [(video)](https://www.youtube.com/watch?v=KQiYlWFvc68&t=5s), March 2017, San Jose, CA
-* _On the road to JDK 8: Lambda, parallel libraries, and more_, [(video)](https://www.youtube.com/watch?v=KQiYlWFvc68&t=5s), November 2012, Antwerp Belgium
+* _JDK 9 Language, Tooling, and Library Features_ [(video)](https://www.youtube.com/watch?v=KQiYlWFvc68), March 2017, San Jose, CA
+* _On the road to JDK 8: Lambda, parallel libraries, and more_, [(video)](https://www.youtube.com/watch?v=KQiYlWFvc68), November 2012, Antwerp Belgium
 
 ## OSCON ##
 
