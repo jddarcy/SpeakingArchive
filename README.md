@@ -30,3 +30,7 @@ Joe Darcy's Speaking Archive
 * [_What every programmer should know about floating-point arithmetic_](https://conferences.oreilly.com/oscon/open-source-2015/public/schedule/detail/42013), July 2015, Portland OR
 * [_JDK 7 in a Nutshell_](https://conferences.oreilly.com/oscon/oscon2011/public/schedule/detail/21185) [(video)](https://www.youtube.com/watch?v=7nkB3hxH5po), July 2011, Portland OR
 * [_The State of JDK and OpenJDK_](https://conferences.oreilly.com/oscon/oscon2011/public/schedule/detail/21184), July 2011, Portland OR
+
+## EclipseCon ##
+
+* [_Project Coin: Small Language Changes in JDK 7_](https://www.eclipsecon.org/2011/sessions/indexd2fb.html?id=2155), March 2011, Santa Clara CA
