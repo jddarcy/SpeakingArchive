@@ -1,5 +1,5 @@
 # SpeakingArchive
-Joe Darcy's Speaking Archive
+Joe Darcy's speaking archive of selected talks.
 
 ## OpenJDK Committers' Workshop (OCW)
 
@@ -19,6 +19,7 @@ Joe Darcy's Speaking Archive
 * _JDK 9 Language, Tooling, and Library Features_, [(video)](https://www.youtube.com/watch?v=VrI6rJNO2x4), October 2017, San Francisco, CA
 * _JDK 9 Language, Tooling, and Library Features_, [(video)](https://www.youtube.com/watch?v=vKYzmIi_1LM), September 2016, San Francisco, CA
 * _JDK 9 Language and Tooling Features_ (with Vicente Romero), [(video)](https://www.youtube.com/watch?v=J4JKByWQHAk), October 2015, San Francisco, CA
+* _What Every Java Programmer Should Know About Floating-Point Arithmetic_, [(slides)](https://web.archive.org/web/20150919081325/https://blogs.oracle.com/darcy/resource/JavaOne/J1_2014-floating-point.pdf) [(video)](https://youtu.be/fQ_EtTJHKsM) September 2014, San Francisco, CA
 
 ## Devoxx ##
 
