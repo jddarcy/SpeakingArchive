@@ -3,15 +3,14 @@ Joe Darcy's speaking archive of selected talks.
 
 ## OpenJDK Committers' Workshop (OCW)
 
-* [_Update on Project Skara and Git_](http://cr.openjdk.java.net/~darcy/Presentations/OCW/owc-2020-02-skara-update.pdf) (with Erik Duveblad), February 2020, Brussels  Belgium
-* [_Update on Project Skara and Git_](https://cr.openjdk.java.net/~darcy/Presentations/OCW/ocw-2019-08-skara.pdf), August 2019, Santa Clara
-* [_What is the CSR (Compatibility and Specification Review) Group?_](http://cr.openjdk.java.net/~darcy/Presentations/OCW/ocw-CSR-2019-02.pdf), February 2019, Brussels  Belgium
-* [_Call for Discussion: Project Skara_](http://cr.openjdk.java.net/~darcy/Presentations/ocw-2018-08-01-skara.pdf), August 2018, Santa Clara, CA
+* _Update on Project Skara and Git_ (with Erik Duveblad), [(slides)](http://cr.openjdk.java.net/~darcy/Presentations/OCW/owc-2020-02-skara-update.pdf), February 2020, Brussels  Belgium
+* _Update on Project Skara and Git_, [(slides)](https://cr.openjdk.java.net/~darcy/Presentations/OCW/ocw-2019-08-skara.pdf), August 2019, Santa Clara
+* _What is the CSR (Compatibility and Specification Review) Group?_, [(slides)](http://cr.openjdk.java.net/~darcy/Presentations/OCW/ocw-CSR-2019-02.pdf), February 2019, Brussels  Belgium
+* _Call for Discussion: Project Skara_, [(slides)](http://cr.openjdk.java.net/~darcy/Presentations/ocw-2018-08-01-skara.pdf), August 2018, Santa Clara, CA
 
 ## JVMLS ##
 
-* _Forward to the Past: The Case for Uniformly Strict Floating Point Arithmetic on the JVM_ [(video)](https://www.youtube.com/watch?v=qTKeU_3rhk4), 
-[(slides)](http://www.jddarcy.org/Conferences/JVMLS/JVMLS-2017-strict-floating-point.pdf), July 2017, Santa Clara, CA
+* _Forward to the Past: The Case for Uniformly Strict Floating Point Arithmetic on the JVM_ [(slides)](http://www.jddarcy.org/Conferences/JVMLS/JVMLS-2017-strict-floating-point.pdf), [(video)](https://www.youtube.com/watch?v=qTKeU_3rhk4), July 2017, Santa Clara, CA
 
 ## JavaOne / Oracle Code One ##
 
