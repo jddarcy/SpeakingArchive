@@ -1,7 +1,7 @@
 # SpeakingArchive
 Joe Darcy's archive of selected talks and interviews.
 
-## Inside Java
+## Inside Java Podcast
 * _Project Skara_ (with Erik Duveblad) [(webpage)](https://inside.java/2020/10/28/podcast-006/), [(video)](https://youtu.be/_j9fazUaKuc?list=PLX8CzqL3ArzV_hXbRevwzrXSMcGNzhxiZ), October 2020
 
 ## OpenJDK Committers' Workshop (OCW)
