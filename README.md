@@ -37,3 +37,10 @@ Joe Darcy's archive of selected talks and interviews.
 ## EclipseCon ##
 
 * [_Project Coin: Small Language Changes in JDK 7_](https://www.eclipsecon.org/2011/sessions/indexd2fb.html?id=2155), March 2011, Santa Clara CA
+
+## FOSDEM ##
+
+* _The State of OpenJDK 6_, February 2011, Brussels Belgium
+* _Project Coin: Language Evolution in the Open_, [(slides)](https://wiki.debian.org/Java/DevJam/2011/Fosdem/JavaSpeakers?action=AttachFile&do=get&target=FOSDEM-2011-Project-Coin.pdf) February 2011, Brussels Belgium
+* _OpenJDK 6: Where are we now? Where are we going?_, February 2009, Brussels Belgium
+* _Project Coin: Small Language Changes for JDK 7_, February 2009, Brussels Belgium
