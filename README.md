@@ -11,6 +11,10 @@ Joe Darcy's archive of selected talks and interviews.
 * _What is the CSR (Compatibility and Specification Review) Group?_, [(slides)](http://cr.openjdk.java.net/~darcy/Presentations/OCW/ocw-CSR-2019-02.pdf), February 2019, Brussels  Belgium
 * _Call for Discussion: Project Skara_, [(slides)](http://cr.openjdk.java.net/~darcy/Presentations/ocw-2018-08-01-skara.pdf), August 2018, Santa Clara, CA
 
+## OpenJDK Governing Board
+
+* _Update on Project Skara and Git_ [(slides)](http://openjdk.java.net/groups/gb/minutes/files/2019-10-10-skara-openjdk-gb-update.pdf) [(minutes)](http://openjdk.java.net/groups/gb/minutes/2019-10-10), October 2019
+
 ## JVMLS ##
 
 * _Forward to the Past: The Case for Uniformly Strict Floating Point Arithmetic on the JVM_ [(slides)](http://www.jddarcy.org/Conferences/JVMLS/JVMLS-2017-strict-floating-point.pdf), [(video)](https://www.youtube.com/watch?v=qTKeU_3rhk4), July 2017, Santa Clara, CA
