@@ -13,6 +13,7 @@ Joe Darcy's archive of selected talks and interviews.
 
 ## OpenJDK Governing Board
 
+* Update on Project Skara and Git_, [(slides)](https://openjdk.java.net/groups/gb/minutes/files/2020-08-11-skara-openjdk-gb-update.pdf) [(minutes)](http://openjdk.java.net/groups/gb/minutes/2020-08-11), August 2020
 * _Update on Project Skara and Git_ [(slides)](http://openjdk.java.net/groups/gb/minutes/files/2019-10-10-skara-openjdk-gb-update.pdf) [(minutes)](http://openjdk.java.net/groups/gb/minutes/2019-10-10), October 2019
 
 ## JVMLS ##
