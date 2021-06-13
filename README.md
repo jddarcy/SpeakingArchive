@@ -35,6 +35,7 @@ Joe Darcy's archive of selected talks and interviews.
 
 * _JDK 9 Language, Tooling, and Library Features_ [(video)](https://www.youtube.com/watch?v=KQiYlWFvc68), March 2017, San Jose, CA
 * _On the road to JDK 8: Lambda, parallel libraries, and more_, [(video)](https://youtu.be/mhsH2Yq2fyw), November 2012, Antwerp Belgium
+* _Project Coin: Growing a language Growing a language without stretch markswithout stretch marks_, [(slides)](https://web.archive.org/web/20091128083247/http://mediacast.sun.com/users/jddarcy/media/Devoxx2009-Project-Coin.pdf), November 2009, Antwerp Belgium
 
 ## OSCON ##
 
