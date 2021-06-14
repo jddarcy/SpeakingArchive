@@ -40,7 +40,8 @@ Joe Darcy's archive of selected talks and interviews.
 ## OSCON ##
 
 * [_What every programmer should know about floating-point arithmetic_](https://web.archive.org/web/20161011165905/https://conferences.oreilly.com/oscon/open-source-2015/public/schedule/detail/42013), July 2015, Portland OR
-* _JDK 7 in a Nutshell_ [(video)](https://www.youtube.com/watch?v=7nkB3hxH5po), July 2011, Portland OR
+* _JDK 7 in a Nutshell_ [(video)](https://www.youtube.com/watch?v=7nkB3hxH5po), 
+[(slides)](https://web.archive.org/web/20111104035315/http://blogs.oracle.com/darcy/resource/OSCON/oscon2011_JDK7_nutshell.pdf), July 2011, Portland OR
 * [_The State of JDK and OpenJDK_](https://web.archive.org/web/20160711233014/http://conferences.oreilly.com/oscon/oscon2011/public/schedule/detail/21184), 
 [(slides)](http://blogs.oracle.com/darcy/resource/OSCON/oscon2011_OpenJDKState.pdf), July 2011, Portland OR
 
