@@ -27,7 +27,7 @@ Joe Darcy's archive of selected talks and interviews.
 * _JDK 9 Language, Tooling, and Library Features_, [(video)](https://www.youtube.com/watch?v=vKYzmIi_1LM), September 2016, San Francisco, CA
 * _JDK 9 Language and Tooling Features_ (with Vicente Romero), [(video)](https://www.youtube.com/watch?v=J4JKByWQHAk), October 2015, San Francisco, CA
 * _What Every Java Programmer Should Know About Floating-Point Arithmetic_, [(slides)](https://web.archive.org/web/20150919081325/https://blogs.oracle.com/darcy/resource/JavaOne/J1_2014-floating-point.pdf) [(video)](https://youtu.be/fQ_EtTJHKsM) September 2014, San Francisco, CA
-* _Lessons from Mathematics_, October 2012, San Francisco, CA
+* _Lessons from Mathematics_, [(slides)](https://web.archive.org/web/20130511181400/https://blogs.oracle.com/darcy/resource/JavaOne/J1_2012-MathLessons.pdf), October 2012, San Francisco, CA
 * _The Heads and Tails of Project Coin_, [(sldies)](https://web.archive.org/web/20111125105120/http://blogs.oracle.com/darcy/resource/JavaOne/J1_2011-ProjectCoin.pdf), October 2011, San Francisco CA
 * _Patents, Copyrights, and TMs: An Intellectual Property Primer for Engineers (by an engineer)_, September 2010, San Francisco, CA
 
