@@ -19,6 +19,10 @@ Joe Darcy's archive of selected talks and interviews.
 * _Update on Project Skara and Git_, [(slides)](https://openjdk.java.net/groups/gb/minutes/files/2020-08-11-skara-openjdk-gb-update.pdf) [(minutes)](http://openjdk.java.net/groups/gb/minutes/2020-08-11), August 2020
 * _Update on Project Skara and Git_ [(slides)](http://openjdk.java.net/groups/gb/minutes/files/2019-10-10-skara-openjdk-gb-update.pdf) [(minutes)](http://openjdk.java.net/groups/gb/minutes/2019-10-10), October 2019
 
+## Java Community Process Executive Committee (JCP EC)
+
+* _Project Coin: Small Language Changes for JDK 7 & JSR 334: Small Language Changes for Java SE 7_, [(slides)](http://jcp.org/aboutJava/communityprocess/ec-public/materials/2011-01-1112/Jsr334-JcpEC.pdf), [January 2011](https://jcp.org/aboutJava/communityprocess/summaries/2011/January2011-public-minutes.html), Santa Clara, CA
+
 ## JVMLS ##
 
 * _Forward to the Past: The Case for Uniformly Strict Floating Point Arithmetic on the JVM_ [(slides)](http://www.jddarcy.org/Conferences/JVMLS/JVMLS-2017-strict-floating-point.pdf), [(video)](https://www.youtube.com/watch?v=qTKeU_3rhk4), July 2017, Santa Clara, CA
