@@ -21,6 +21,7 @@ Joe Darcy's archive of selected talks and interviews.
 
 ## Java Community Process Executive Committee (JCP EC)
 
+* _Contributing to OpenJDK: Participating in stewardship for the long-term_, [(slides)](https://jcp.org/aboutJava/communityprocess/ec-public/materials/2023-04-12/Contributing_to_OpenJDK_2023_04_12.pdf), [April 12, 2023](https://jcp.org/aboutJava/communityprocess/ec-public/materials/2023-04-12/JCP-EC-Minutes-April-2023.html)
 * _Project Coin: Small Language Changes for JDK 7 & JSR 334: Small Language Changes for Java SE 7_, [(slides)](http://jcp.org/aboutJava/communityprocess/ec-public/materials/2011-01-1112/Jsr334-JcpEC.pdf), [January 2011](https://jcp.org/aboutJava/communityprocess/summaries/2011/January2011-public-minutes.html), Santa Clara, CA
 
 ## JVMLS ##
