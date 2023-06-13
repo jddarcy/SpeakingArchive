@@ -19,10 +19,11 @@ Joe Darcy's archive of selected talks and interviews.
 * _Update on Project Skara and Git_, [(slides)](https://openjdk.java.net/groups/gb/minutes/files/2020-08-11-skara-openjdk-gb-update.pdf) [(minutes)](http://openjdk.java.net/groups/gb/minutes/2020-08-11), August 2020
 * _Update on Project Skara and Git_ [(slides)](http://openjdk.java.net/groups/gb/minutes/files/2019-10-10-skara-openjdk-gb-update.pdf) [(minutes)](http://openjdk.java.net/groups/gb/minutes/2019-10-10), October 2019
 
-## Java Community Process Executive Committee (JCP EC)
+## Java Community Process (JCP)
 
-* _Contributing to OpenJDK: Participating in stewardship for the long-term_, [(slides)](https://jcp.org/aboutJava/communityprocess/ec-public/materials/2023-04-12/Contributing_to_OpenJDK_2023_04_12.pdf), [April 12, 2023](https://jcp.org/aboutJava/communityprocess/ec-public/materials/2023-04-12/JCP-EC-Minutes-April-2023.html)
-* _Project Coin: Small Language Changes for JDK 7 & JSR 334: Small Language Changes for Java SE 7_, [(slides)](http://jcp.org/aboutJava/communityprocess/ec-public/materials/2011-01-1112/Jsr334-JcpEC.pdf), [January 2011](https://jcp.org/aboutJava/communityprocess/summaries/2011/January2011-public-minutes.html), Santa Clara, CA
+* _Contributing to OpenJDK: Participating in stewardship for the long-term_, [(slides)](https://jcp.org/aboutJava/communityprocess/ec-public/materials/2023-06-13/Contributing_to_OpenJDK_2023_04_12.pdf), JCP Public EC Meeting, [June 13, 2023](https://jcp.org/aboutJava/communityprocess/ec-public/materials/2023-06-13/JCP-EC-Public-Agenda-June-2023.html)
+* _Contributing to OpenJDK: Participating in stewardship for the long-term_, [(slides)](https://jcp.org/aboutJava/communityprocess/ec-public/materials/2023-04-12/Contributing_to_OpenJDK_2023_04_12.pdf), JCP Executive Committee, [April 12, 2023](https://jcp.org/aboutJava/communityprocess/ec-public/materials/2023-04-12/JCP-EC-Minutes-April-2023.html)
+* _Project Coin: Small Language Changes for JDK 7 & JSR 334: Small Language Changes for Java SE 7_, [(slides)](http://jcp.org/aboutJava/communityprocess/ec-public/materials/2011-01-1112/Jsr334-JcpEC.pdf), JCP Executive Committee, [January 2011](https://jcp.org/aboutJava/communityprocess/summaries/2011/January2011-public-minutes.html), Santa Clara, CA
 
 ## JVMLS ##
 
