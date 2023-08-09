@@ -26,7 +26,7 @@ Joe Darcy's archive of selected talks and interviews.
 * _Project Coin: Small Language Changes for JDK 7 & JSR 334: Small Language Changes for Java SE 7_, [(slides)](http://jcp.org/aboutJava/communityprocess/ec-public/materials/2011-01-1112/Jsr334-JcpEC.pdf), JCP Executive Committee, [January 2011](https://jcp.org/aboutJava/communityprocess/summaries/2011/January2011-public-minutes.html), Santa Clara, CA
 
 ## JVMLS ##
-
+* _≈0x1.4p2 minute update on Java Numerics_, [(slides)(https://github.com/jddarcy/SpeakingArchive/blob/master/JVMLS-2023-FpLightning.pdf), August 9, 2023
 * _Forward to the Past: The Case for Uniformly Strict Floating Point Arithmetic on the JVM_ [(slides)](http://www.jddarcy.org/Conferences/JVMLS/JVMLS-2017-strict-floating-point.pdf), [(video)](https://www.youtube.com/watch?v=qTKeU_3rhk4), July 2017, Santa Clara, CA
 
 ## JavaOne / Oracle Code One ##
