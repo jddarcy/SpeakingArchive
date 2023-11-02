@@ -1,8 +1,12 @@
 # SpeakingArchive
 Joe Darcy's archive of selected talks and interviews.
 
+## FPBench Community Meeting
+
+  * _Overview of numerics on the Java Platform: past, present, and possible futures_, [(slides)](https://github.com/jddarcy/SpeakingArchive/blob/master/JavaNumericsOverview-2023-11-02.pdf), November 2023
+
 ## Oracle Dev Live
- * _What Every Java Programmer Should Know About Floating-Point Arithmetic_, [(promo)](https://youtu.be/HVTaQF3jVP0), [(video)](https://youtu.be/ajaHQ9S4uTA), [(slides)](http://cr.openjdk.java.net/~darcy/Presentations/OracleDevLive/OracleDevLive-2021-09-FloatingPoint.pdf) September 2021
+ * _What Every Java Programmer Should Know About Floating-Point Arithmetic_, [(promo)](https://youtu.be/HVTaQF3jVP0), [(video)](https://youtu.be/ajaHQ9S4uTA), [(slides)](http://cr.openjdk.java.net/~darcy/Presentations/OracleDevLive/OracleDevLive-2021-09-FloatingPoint.pdf), September 2021
 
 ## Inside Java Podcast
 * _Project Skara_ (with Erik Duveblad) [(webpage)](https://inside.java/2020/10/28/podcast-006/), [(video)](https://youtu.be/_j9fazUaKuc?list=PLX8CzqL3ArzV_hXbRevwzrXSMcGNzhxiZ), October 2020
