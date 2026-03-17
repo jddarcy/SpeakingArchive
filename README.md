@@ -1,13 +1,8 @@
 # SpeakingArchive
 Joe Darcy's archive of selected talks and interviews.
 
-## JVMLS ##
-* _Paths to support additional numeric types on the Java platform_, [(slides)](https://github.com/jddarcy/SpeakingArchive/blob/master/JVMLS-2025-Numerics.pdf), [(video)](https://youtu.be/xCdJb_zI5us), August 5, 2025
-* _≈0x1.4p2 minute update on Java Numerics_, [(slides)](https://github.com/jddarcy/SpeakingArchive/blob/master/JVMLS-2023-FpLightning.pdf), August 9, 2023
-* _Forward to the Past: The Case for Uniformly Strict Floating-Point Arithmetic on the JVM_ [(slides)](http://www.jddarcy.org/Conferences/JVMLS/JVMLS-2017-strict-floating-point.pdf), [(video)](https://www.youtube.com/watch?v=qTKeU_3rhk4), July 2017, Santa Clara, CA
-
 ## JavaOne / Oracle Code One ##
-* _Paths to support additional numeric types on the Java platform_, [(slides)](J1-2026-NumericalPaths.pdf), March 2026, Redwood Shores, CA
+* _Paths to support additional numeric types on the Java platform_, [(slides)](https://github.com/jddarcy/SpeakingArchive/blob/master/JVMLS-2025-Numerics.pdf), March 2026, Redwood Shores, CA
 * _Demo with Erik Duvelblad during technical keynote_, [(video)](https://youtu.be/nKJbDYRsO0s?t=1274), October 2018, San Francisco, CA
 * _JDK 9 Language, Tooling, and Library Features_, [(video)](https://www.youtube.com/watch?v=VrI6rJNO2x4), October 2017, San Francisco, CA
 * _JDK 9 Language, Tooling, and Library Features_, [(slides)](https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/File/e1950f4e52d2b112757b70cf28caa117/j1_2016_jdk9_lang_tools_libs.pdf) [(video)](https://www.youtube.com/watch?v=vKYzmIi_1LM), September 2016, San Francisco, CA
@@ -17,6 +12,11 @@ Joe Darcy's archive of selected talks and interviews.
 * _The Heads and Tails of Project Coin_, [(slides)](https://web.archive.org/web/20111125105120/http://blogs.oracle.com/darcy/resource/JavaOne/J1_2011-ProjectCoin.pdf), October 2011, San Francisco CA
 * _Patents, Copyrights, and TMs: An Intellectual Property Primer for Engineers (by an engineer)_, September 2010, San Francisco, CA
 
+## JVMLS ##
+* _Paths to support additional numeric types on the Java platform_, [(slides)](https://github.com/jddarcy/SpeakingArchive/blob/master/JVMLS-2025-Numerics.pdf), [(video)](https://youtu.be/xCdJb_zI5us), August 5, 2025
+* _≈0x1.4p2 minute update on Java Numerics_, [(slides)](https://github.com/jddarcy/SpeakingArchive/blob/master/JVMLS-2023-FpLightning.pdf), August 9, 2023
+* _Forward to the Past: The Case for Uniformly Strict Floating-Point Arithmetic on the JVM_ [(slides)](http://www.jddarcy.org/Conferences/JVMLS/JVMLS-2017-strict-floating-point.pdf), [(video)](https://www.youtube.com/watch?v=qTKeU_3rhk4), July 2017, Santa Clara, CA
+  
 ## Oracle Dev Live
  * _What Every Java Programmer Should Know About Floating-Point Arithmetic_, [(promo)](https://youtu.be/HVTaQF3jVP0), [(video)](https://youtu.be/ajaHQ9S4uTA), [(slides)](http://cr.openjdk.java.net/~darcy/Presentations/OracleDevLive/OracleDevLive-2021-09-FloatingPoint.pdf), September 2021
 
